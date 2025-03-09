@@ -1,0 +1,11 @@
+{
+  "domain": "ha-atmoweb",
+  "name": "HA AtmoWEB",
+  "version": "0.1.0",
+  "documentation": "https://github.com/cyber5de/ha-atmoweb",
+  "issue_tracker": "https://github.com/cyber5de/ha-atmoweb/issues",
+  "requirements": ["requests>=2.28.0"],
+  "codeowners": ["@cyber5de"],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
